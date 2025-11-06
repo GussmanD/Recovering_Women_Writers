@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
+# This config file is meant for settings that affect your whole blog, values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
@@ -28,7 +28,7 @@
 # shorter version here, and using the long version as the title of your 
 # homepage (the "title:" in the frontmatter/metadata of index.md).
 
-title: Recovery Hub Digital Edition Template
+title: Recovering 19th-Century American Women Writers
 
 #############
 # Site URL #
@@ -37,8 +37,8 @@ title: Recovery Hub Digital Edition Template
 # url for Recovery Hub projects is "https://recoveryhub.github.io/"
 # for non-Recovery Hub projects, check your GitHub Pages URL
 
-baseurl: "/edition_template"
-url: "https://recoveryhub.github.io/"
+baseurl: "/Recovering_Women_Writers"
+url: "https://GussmanD.github.io/"
 
 
 
@@ -107,7 +107,7 @@ banner_size: "half" # change to "full" if you want a full-width image
 # If you decide to set a default here, you can still override it on individual 
 # items by filling in "file_edited_by:" in the item's frontmatter/metadata.
 
-editor: Editor(s) names here
+editor: Deborah Gussman
 
 
 
@@ -120,9 +120,9 @@ editor: Editor(s) names here
 # appear on the site, remove the '#" from the beginning of the line.
 
 author:
-  name: Your name(s)
-  email: contact-email@example.com
-  institution: Your institution(s) or organization(s)
+  name: Deborah Gussman
+  email: deborah.gussman@stockton.edu
+  institution: Stockton University
 
 #privacy_notice: https://www.example.com/your-privacy-notice-url
 
